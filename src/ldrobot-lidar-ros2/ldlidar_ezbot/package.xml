@@ -3,7 +3,7 @@
   href="http://download.ros.org/schema/package_format2.xsd"
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>ldlidar</name>
+  <name>ldlidar_ezbot</name>
   <version>0.2.0</version>
   <description>LDRobot Lidar ROS2 support meta package</description>
 
